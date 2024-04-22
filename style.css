@@ -1,0 +1,95 @@
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color:#414040;
+    color: rgb(46, 46, 46);
+}
+
+h1{
+color: rgb(252, 252, 252);
+padding: 5px;
+}
+
+h2{color: rgb(255, 251, 251);
+}
+p{color: white;
+}d
+h4{color: white
+}
+label{color: rgb(255, 255, 255)
+}
+footer{color: rgb(82, 82, 82)
+}
+header {
+    background-color: rgb(56, 56, 56);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+p2{color: white
+}
+p3{color: white
+}
+p4{color: white
+}
+section {
+
+    width: 50%;
+    height: 50%;
+    padding: 40px;
+    text-align: center;
+    margin-right: 20px;
+    margin-right: 20%;
+}
+ img {
+    width: 60%;
+    height: 60%;
+ }
+footer {
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.p p{
+margin-top: 400px;
+font-size: 20px;
+padding: 10px;
+border: solid 2px #333;
+width: fit-content;
+margin-left: 700px;
+}
+
+.p{
+    text-align: center;
+}
+.paragraph label{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}    
+
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+
+  .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    top: 0px;
+  }
+ a{
+color: white
+ }
